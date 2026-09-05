@@ -26,3 +26,12 @@
 - Developed a Student Grading System using Scratch to calculate Total Marks, Percentage and Average Marks of any student and then, identify the grade of the student, on the basis of Percentage.
 **A Working Calculator:**
 - Developed a Working Calculator using Scratch to Calculate the Sum, Difference, Product and Quotient of any number.
+
+## Hobbies & Extracurriculars:
+
+1. Reading Books
+2. Video Games
+3. Table Tennis
+- [x] How to serve legally in Table Tennis.
+- [ ] How to spin the ball perfectly.
+
